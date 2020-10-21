@@ -1,0 +1,8 @@
+Sistem Management (Native)
+
+Location Database
+-> app/database/management_app.sql
+
+----User Login-----
+Username : admin
+Password : admin
